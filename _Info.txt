@@ -1,0 +1,7 @@
+VERSION: "1.0.0",
+GAME_VERSION_MAJOR: 68,
+GAME_VERSION_MINOR: 28,
+NAME: "MJL CORE",
+DESC: "This is the core mod for the MJL mods",
+AUTHOR: "MJL",
+INFO: "This is the core mod for the MJL mods",
