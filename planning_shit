@@ -1,0 +1,29 @@
+okay, so
+I want iron ore on the map
+I want coal on the map
+Iron ore should be smelted with coal into iron bars
+
+tier flowchart
+none -> stone -> iron -> steel
+
+you get "wood" from trees
+"wood" is processed into "wood parts"
+you get "stone chunks" from a stone mine, which costs "wood" and "wood parts"
+"wood parts" and "stone chunks" produce "stone tools" (for now, later this should be split into different tools)
+
+"stone tools" should be unlocked from the start
+further tool stuff should unlock via research
+
+iron mine needs to be unlocked via research
+"stone tools" with "wood" and "wood parts" let you make an iron mine
+coal mine needs to be unlocked via research
+"stone tools" with "wood" and "wood parts" let you make a coal mine
+
+"iron chunks" are mined from an iron mine
+"coal chunks" are mined from a coal mine
+
+smeltery is made with "stone chunks", "wood parts" and "wood"
+"iron chunks" with "coal chunks" are processed in a smeltery, which returns "iron bars"
+
+blacksmiths workshop is made with "stone tools, "stone chunks", "wood parts" and "wood"
+"iron bars" together with "wood parts" and "coal chunks" are used in a blacksmiths workshop to make "iron tools"
